@@ -1,0 +1,11 @@
+# Data Processing and Numerical Operations
+numpy>=1.22.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+
+# Deep Learning Framework
+tensorflow>=2.10.0
+
+# Optional: Visualization (Uncomment if you plot loss curves or confusion matrices)
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
